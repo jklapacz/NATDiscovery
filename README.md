@@ -1,6 +1,8 @@
 NATDiscovery
 ============
 
+Refer to: https://blog.adityapatawari.com/2014/09/types-of-nat-and-how-to-determine-nat.html
+
 This script will determine what kind of NAT you are sitting behind.
 * Run server.py on any publicly accessible server.
 ```
